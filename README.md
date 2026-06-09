@@ -1,6 +1,6 @@
-# Local Neural Chat
+# Local_AI
 
-A simple full-stack ChatGPT-like web app that talks to a local Ollama model through Flask. Chats are temporary and stored only in memory while the page and Flask server are running.
+Conversational AI for local use. This project is a simple full-stack ChatGPT-like web app that talks to a local Ollama model through Flask. Chats are temporary and stored only in memory while the page and Flask server are running.
 
 ## Project Structure
 
